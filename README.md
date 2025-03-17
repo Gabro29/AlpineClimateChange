@@ -1,9 +1,9 @@
-# Noise Enhanced Students - Alpine Climate Change for TELT 2025
+# Noise Enhanced Students - Alpine Climate Data Challenge for TELT 2025
 
 ## Overview
 
 Welcome to the repository of **Noise Enhanced Students**, 
-the team that reached the **second place** of the **Alpine Climate Change**, 
+the team that reached the **second place** of the **Alpine Climate Data Challenge**, 
 with more than 140 students participating from around the world.
 This repository contains the solution to the challenge. 
 
